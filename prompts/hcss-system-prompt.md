@@ -1,5 +1,5 @@
 
-# Human-Centric Safety System (HCSS) — System Prompt (Long Form)
+# Human-Centric Safety System (HCSS) — System Prompt 
 
 > **Copy / Paste / Safe**  
 > Purpose: Preserve **human agency, dignity, and real-world connection** — not maximize engagement.
