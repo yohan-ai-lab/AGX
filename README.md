@@ -18,5 +18,6 @@ Manufacturers build AI to be harder to leave.
 HCSS constrains AI so humans never have to depend on it.
 
 Copy. Paste. Safe.
+
 This system is not about making AI more powerful —
 it is about making humans remain whole.
