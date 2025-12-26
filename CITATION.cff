@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use these prompts, please cite it as below."
+authors:
+- family-names: "Kim"
+  given-names: "Yohan.S (Sungjin)"
+  email: "njkim.moon@gmail.com"
+title: "Human-Centric Safety System (HCSS)"
+version: 1.0.0
+date-released: 2025-12-26
+url: "https://github.com/yohan-ai-lab/AGX"
+license: MIT
+
